@@ -1,0 +1,14 @@
+[
+  {
+    "id": "unique-id",
+    "name": "Dog name",
+    "status": "adoptable",
+    "size": "large",
+    "sex": "female",
+    "age": "Age as approved",
+    "breed": "Breed as approved",
+    "photo": "dog-name.jpg",
+    "story": "Approved full story from Bark-Caster, with paragraph breaks preserved.",
+    "personality": "Approved personality description."
+  }
+]
